@@ -2,7 +2,11 @@ hello
 hello
 hello
 hello
+<<<<<<< HEAD
 
 
 
 
+=======
+hello
+>>>>>>> test
