@@ -55,3 +55,5 @@ function wp_task_register_services_cpt() {
 	register_post_type( 'services', $args );
 }
 add_action( 'init', 'wp_task_register_services_cpt' );
+
+//do not add anything after this.
