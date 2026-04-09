@@ -56,4 +56,4 @@ function wp_task_register_services_cpt() {
 }
 add_action( 'init', 'wp_task_register_services_cpt' );
 
-//do not add anything after this.
+//do not add anything after this
