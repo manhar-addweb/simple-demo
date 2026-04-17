@@ -2,12 +2,12 @@
 /*
 Plugin Name: WPS Hide Login
 Description: Protect your website by changing the login URL and preventing access to wp-login.php page and wp-admin directory while not logged-in
-Donate link: https://www.paypal.me/donateKulkaNicolas
+Donate link: https://www.paypal.me/donateWPServeur
 Author: WPServeur, NicolasKulka, wpformation
 Author URI: https://wpserveur.net
-Version: 1.9.18
+Version: 1.8.5
 Requires at least: 4.1
-Tested up to: 6.9
+Tested up to: 5.7
 Requires PHP: 7.0
 Domain Path: languages
 Text Domain: wps-hide-login
@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Plugin constants
-define( 'WPS_HIDE_LOGIN_VERSION', '1.9.18' );
+define( 'WPS_HIDE_LOGIN_VERSION', '1.8.5' );
 define( 'WPS_HIDE_LOGIN_FOLDER', 'wps-hide-login' );
 
 define( 'WPS_HIDE_LOGIN_URL', plugin_dir_url( __FILE__ ) );
